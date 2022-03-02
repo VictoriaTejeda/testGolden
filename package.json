@@ -1,0 +1,21 @@
+{
+  "name": "prueba-golden",
+  "version": "1.0.0",
+  "description": "Página que le permita al usuario seleccionar un plan para su cuenta siguiendo los requerimientos planteados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "serve src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaTejeda/prueba-golden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictoriaTejeda/prueba-golden/issues"
+  },
+  "homepage": "https://github.com/VictoriaTejeda/prueba-golden#readme"
+}
