@@ -2,7 +2,7 @@
   "name": "prueba-golden",
   "version": "1.0.0",
   "description": "Página que le permita al usuario seleccionar un plan para su cuenta siguiendo los requerimientos planteados",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "serve src/"
